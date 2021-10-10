@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Easy-EMI Calculator</string>
+    <string name="easy_emi">Easy-EMI</string>
+    <string name="mortgage_principal_amount">Mortgage principal amount ($)</string>
+    <string name="CalculatorTip">Easy-EMI offers easy estimates for monthly payments on a mortgage! Provide a few key details below and an estimate will be calculated.</string>
+    <string name="PrincipalAmountTip">This is usually the purchase price minus your down payment.</string>
+    <string name="interest_rate">Interest Rate (%)</string>
+    <string name="InterestRateTip">The interest rate must be between 0% and 30%</string>
+    <string name="amortization_period">Amortization Period (years)</string>
+    <string name="calculate">Calculate</string>
+</resources>
